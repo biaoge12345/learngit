@@ -5,3 +5,4 @@ Git tracks changes of files.
 Creating a new branch is quick and simple.
 Learned stash by myself.
 Start learning python.
+This line from Linux.
